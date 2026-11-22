@@ -1,0 +1,28 @@
+window.I18N = window.I18N || {};
+I18N.en = {
+  nav: ["Services","Process","Selected Work","About","Contact"],
+  h1: "We turn ideas into digital experiences.",
+  lead: "A digital creative studio designing and building websites and digital solutions for individuals, entrepreneurs and businesses.",
+  cta1: "Start a Project",
+  cta2: "Explore Our Work",
+  sh: "Services that solve a real problem",
+  ss: "Each service starts with a problem you face and ends with a clear result.",
+  prob: "The problem",
+  val: "What we deliver",
+  ph: "How we work with you",
+  ps: "Four clear steps from idea to launch.",
+  wh: "Selected work",
+  ws: "Examples of projects we have delivered.",
+  soon: "Coming soon",
+  visit: "Visit project",
+  ah: "Our approach",
+  ap: "A good website combines clarity, creativity and technology in one experience. You work directly with the person building your project, with no middlemen.",
+  ch: "Have an idea? Let’s talk.",
+  cs: "Tell us about your project and we’ll reply with clear next steps.",
+  wa: "Message on WhatsApp",
+  mail: "Email us",
+  miss: "Add contact details in contact.js",
+  tg: "We turn ideas into digital experiences.",
+  lang: "العربية",
+  rights: "All rights reserved"
+};
